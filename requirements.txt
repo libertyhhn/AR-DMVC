@@ -1,0 +1,12 @@
+- python==3.9.16
+- torch==1.12.1+cu116	
+- torchaudio==0.12.1+cu116
+- torchvision==0.13.1+cu116
+- pytorch-lightning==1.5.10
+- scikit-learn==1.2.2
+- munkres==1.1.4
+- pydantic==1.9.0
+- matplotlib==3.7.2
+- tabulate
+- scikit-image==0.22.0
+- numpy = 1.26.3
